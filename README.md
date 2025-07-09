@@ -29,7 +29,6 @@ A powerful, intuitive form template builder built with React.js that allows user
    \`\`\`bash
    npm install
    \`\`\`
-
 3. **Run the development server**
    \`\`\`bash
    npm run dev
