@@ -1,4 +1,4 @@
-#Form Template Builder
+## Form Template Builder
 
 A powerful, intuitive form template builder built with React.js that allows users to create, manage, and deploy dynamic forms. Features a modern dark theme, drag-and-drop functionality, and real-time preview capabilities.
 
@@ -28,10 +28,12 @@ A powerful, intuitive form template builder built with React.js that allows user
 1. **Install dependencies**
    \`\`\`bash
    npm install
+   \`\`\`
 
-2. **Run the development server**
+3. **Run the development server**
    \`\`\`bash
    npm run dev
+   \`\`\`
 
-3. **Open your browser**
+5. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
