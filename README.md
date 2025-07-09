@@ -34,3 +34,13 @@ A powerful, intuitive form template builder built with React.js that allows user
 
 5. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
+
+
+## Snapshot
+![localhost_3000_ (1)](https://github.com/user-attachments/assets/a2e4fb3c-1469-40c8-aea1-4c370b0350f6)
+![localhost_3000_builder_1751983721477](https://github.com/user-attachments/assets/383601cd-26ea-4a60-961a-7f572231243e)
+![localhost_3000_builder_1751983721477 (1)](https://github.com/user-attachments/assets/8b6c1700-ba46-4909-87b8-1afb2c10a337)
+![localhost_3000_form_1751983721477](https://github.com/user-attachments/assets/bef800b9-583f-4316-ab58-45b2084e5d75)
+
+
+
