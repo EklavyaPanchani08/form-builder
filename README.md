@@ -16,8 +16,6 @@ A powerful, intuitive form template builder built with React.js that allows user
 - **Local Storage**: Persistent data storage in browser
 
 ## Tech Stack
-
-### **Frontend Framework**
 - React
 - TypeScript
 -  Tailwind CSS
